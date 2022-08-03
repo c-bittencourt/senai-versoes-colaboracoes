@@ -1,7 +1,7 @@
 # senai-versoes-colaboracoes
 README.MD
 
-Atividade Online e Encontro Remoto - PFS UC8 - Lógica de Programação
+Atividade Online e Encontro Remoto - PFS UC7 - Versionamento
 Sequência de comandos usados para versionamento (Git)
 
 Ações no repositório local
