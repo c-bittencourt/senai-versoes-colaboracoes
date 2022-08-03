@@ -1,7 +1,7 @@
 # senai-versoes-colaboracoes
 README.MD
 
-Atividade Online e Encontro Remoto - PFS UC7 - Versionamento
+Atividade Online e Encontro Remoto - PFS UC7 - Versionamento - 
 Sequência de comandos usados para versionamento (Git)
 
 Ações no repositório local
@@ -11,7 +11,7 @@ Ações no repositório local
 4. Para verificação do status completo do repositório, foi rodado o comando "git status"
 5. O arquivo criado foi então transferido para o staging, através do comando "git add."
 6. Para verificar as alterações antes de salvar, foi usado novamente o comando "git status"
-7. As alterações foram então salvas (git commit -m "Arquivos da Atividade Online 1 (PFS_UC8 - Lógica de Programação)")
+7. As alterações foram então salvas (git commit -m "meu primeiro commit")
 8. Para verificar as alterações confirmadas no repositório, foi executado o comando "git log"
 9. Usando o número do commit, foi visualizada a alteração no projeto ("git show <número do commit>.")
 
